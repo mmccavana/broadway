@@ -23,6 +23,11 @@ h4 {
 p {
   font-size: 14px;
 }
+.banner {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size:cover;
+  background-position: center;
+}
 .link {
   font-size: 18px;
   color: white;
@@ -32,4 +37,5 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
